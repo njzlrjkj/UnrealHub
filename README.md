@@ -7,3 +7,12 @@ If you are a 3D application developer, our SDK toolkit will open up a broader ma
 
 3D application developer download link：https://hub.itcg.cn/itcghub/
 case：https://hub.itcg.cn/ITCG/download/download.html
+版本：2.6.0 版本日期：2025/05/2
+▼
+1.ITCG Hub 正式更名为 Unreal Hub
+
+2.所有应用匹配平台
+
+3.支持全新的UE5和Unity SDK API接口
+
+4.新增语言切换功能，支持 中文 / English 界面
